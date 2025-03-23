@@ -2,7 +2,6 @@
 
 A modern, user-friendly PDF merger application with drag-and-drop functionality and dark theme interface.
 
-![PDF Merger Screenshot](screenshot.png)
 
 ## Features
 
@@ -58,7 +57,7 @@ A modern, user-friendly PDF merger application with drag-and-drop functionality 
 
 MIT License
 
-Copyright (c) 2024
+Copyright (c) 2025
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
